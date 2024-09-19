@@ -6,7 +6,7 @@ naar een binair getal.
 
 ![Afbeelding met tekst, schermopname, Lettertype, nummer Automatisch
 gegenereerde
-beschrijving](./media/image1.png) **2^8^ 2^7^ 2^6^ 2^5^ 2^4^ 2^3^ 2^2^ 2^1^ 2^0^**
+beschrijving](./media/image1.png)
 
 ![Afbeelding met tekst, nummer, schermopname, Lettertype Automatisch
 gegenereerde beschrijving](./media/image2.png)
