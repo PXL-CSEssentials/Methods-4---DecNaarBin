@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods-4---DecNaarBin", "Methods-4---DecNaarBin\Methods-4---DecNaarBin.csproj", "{57605B67-6F4A-4331-A92C-5AD922A15B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57605B67-6F4A-4331-A92C-5AD922A15B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57605B67-6F4A-4331-A92C-5AD922A15B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57605B67-6F4A-4331-A92C-5AD922A15B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57605B67-6F4A-4331-A92C-5AD922A15B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7234955-F5DA-4508-98C3-F3A8BF129E17}
+	EndGlobalSection
+EndGlobal
